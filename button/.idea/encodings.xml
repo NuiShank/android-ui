@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/rungame/shank/rungame/MainActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/rungame/shank/rungame/Sample1Activity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/rungame/shank/rungame/Sample2Activity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/rungame/shank/rungame/Sample3Activity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/rungame/shank/rungame/Sample4Activity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/rungame/shank/rungame/Sample5Activity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/complete_state_selector.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/error_state_selector.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_action_accept.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_action_cancel.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/idle_state_selector.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/ac_sample_1.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/ac_sample_2.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/ac_sample_3.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/ac_sample_4.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/ac_sample_5.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values/dimens.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/buttoneffect/src/main/java/com/rungame/shank/buttoneffect/CircularAnimatedDrawable.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/buttoneffect/src/main/java/com/rungame/shank/buttoneffect/CircularProgressButton.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/buttoneffect/src/main/java/com/rungame/shank/buttoneffect/CircularProgressDrawable.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/buttoneffect/src/main/java/com/rungame/shank/buttoneffect/MorphingAnimation.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/buttoneffect/src/main/java/com/rungame/shank/buttoneffect/OnAnimationEndListener.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/buttoneffect/src/main/java/com/rungame/shank/buttoneffect/StateManager.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/buttoneffect/src/main/java/com/rungame/shank/buttoneffect/StrokeGradientDrawable.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/buttoneffect/src/main/res/color" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/buttoneffect/src/main/res/drawable/cpb_background.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/buttoneffect/src/main/res/values/colors.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/buttoneffect/src/main/res/values/dimen.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/buttoneffect/src/main/res/values/library_circularprogressbutton_strings.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/buttoneffect/src/main/res/values/strings.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/buttoneffect/src/main/res/values/styles.xml" charset="UTF-8" />
+  </component>
+</project>
